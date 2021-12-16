@@ -18,7 +18,7 @@
 
 填写config.ini，将data、mail、BaiduOCR补充完整，运行`QueryRuankao.py`
 
-百度OCR可以根据https://cloud.baidu.com/doc/OCR/s/dk3iqnq51教程注册，将API_KEY、SECRET_KEY写到config.ini
+百度OCR可以根据https://cloud.baidu.com/doc/OCR/s/dk3iqnq51 教程注册，将API_KEY、SECRET_KEY写到config.ini
 
 
 
